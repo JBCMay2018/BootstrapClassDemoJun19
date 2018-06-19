@@ -1,0 +1,33 @@
+h1{
+	color:blue; 
+}
+
+p{
+	color: green; 
+}
+
+
+.brightyellow{
+	color:brown; 
+}
+
+#special 
+{
+	color:purple; 
+}
+
+.jumbotron-fluid 
+{
+	background: url("../img/backimage.jpg");
+	background-position:center; 
+	color:white; 
+}
+
+.jumbotron-fluid h1{
+	font-family: 'Great Vibes', cursive;
+	color:white;
+}
+
+.jumbotron-fluid p{
+	color:cornsilk; 
+}
